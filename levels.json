@@ -2,19 +2,19 @@
   "Levels": {
     "1": {
       "Url": "P2IwvAgYcfE",
-      "Start" : "10:10:10",
+      "Start" : "00:00:40",
       "Latitude": "43.058622",
       "Longitude": "141.339400"
     },
     "2": {
       "Url": "6Eqvojdpqqk",
-      "Start" : "10:10:10",
+      "Start" : "00:10:00",
       "Latitude": "35.671140",
       "Longitude": "139.765376"
     },
     "3": {
       "Url": "7sT1KEUmNkY",
-      "Start" : "10:10:10",
+      "Start" : "01:00:00",
       "Latitude": "36.893868",
       "Longitude": "30.701178"
     },
