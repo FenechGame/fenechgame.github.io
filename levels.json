@@ -1,0 +1,64 @@
+{
+  "Levels": {
+    "1": {
+      "Url": "P2IwvAgYcfE",
+      "Start" : "10:10:10",
+      "Latitude": "43.058622",
+      "Longitude": "141.339400"
+    },
+    "2": {
+      "Url": "6Eqvojdpqqk",
+      "Start" : "10:10:10",
+      "Latitude": "35.671140",
+      "Longitude": "139.765376"
+    },
+    "3": {
+      "Url": "7sT1KEUmNkY",
+      "Start" : "10:10:10",
+      "Latitude": "36.893868",
+      "Longitude": "30.701178"
+    },
+    "4": {
+      "Url": "ZND8uJhB-tA",
+      "Start" : "10:10:10",
+      "Latitude": "-33.906186",
+      "Longitude": "18.419458"
+    },
+    "5": {
+      "Url": "BGe32Nf9JDs",
+      "Start" : "10:10:10",
+      "Latitude": "-45.032805",
+      "Longitude": "168.662944"
+    },
+    "6": {
+      "Url": "C02B031MjbA",
+       "Start" : "10:10:10",
+      "Latitude": "-22.981156",
+      "Longitude": "-43.192516"
+    },
+    "7": {
+      "Url": "JgBLuH_pqxc",
+      "Start" : "10:10:10",
+      "Latitude": "37.786866",
+      "Longitude": "-122.404834"
+    },
+    "8": {
+      "Url": "L3cLs-KOxTs",
+      "Start" : "10:10:10",
+      "Latitude": "47.915389",
+      "Longitude": "106.915237"
+    },
+    "9": {
+      "Url": "yMlWK69XG0w",
+      "Start" : "10:10:10",
+      "Latitude": "43.062470",
+      "Longitude": "141.353227"
+    },
+    "10": {
+      "Url": "VerEQ-xilek",
+      "Start" : "10:10:10",
+      "Latitude": "-45.039954",
+      "Longitude": "168.659077"
+    }
+  }
+}
