@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">e
     <title>FenechGame</title>
     <meta name="description" content="FenechGame — независимый разработчик мобильных игр и AI-приложений для Android. Все приложения доступны в RuStore.">
     <link rel="icon" href="icons/race.png">
@@ -109,6 +109,8 @@
         .rating { color: var(--text); }
         .rating::before { content: "★ "; color: #f5a623; }
         .store { color: var(--accent); background: var(--accent-soft); padding: 2px 8px; border-radius: 8px; }
+        a.store { text-decoration: none; }
+        a.store:hover { background: var(--accent); color: #fff; }
 
         .about { padding: 56px 0; }
         .about .box {
@@ -200,14 +202,17 @@
                         <div class="meta"><span class="store">RuStore</span></div>
                     </div>
                 </a>
-                <a class="card" href="https://www.rustore.ru/catalog/app/com.fenech.mjewelry" target="_blank" rel="noopener">
+                <div class="card">
                     <img src="icons/mjewelry.png" alt="" loading="lazy">
                     <div class="info">
                         <h3>Magic Jewelry — Магические камни</h3>
                         <p class="cat">Головоломки</p>
-                        <div class="meta"><span class="store">RuStore</span></div>
+                        <div class="meta">
+                            <a class="store" href="https://www.rustore.ru/catalog/app/com.fenech.mjewelry" target="_blank" rel="noopener">RuStore</a>
+                            <a class="store" href="https://appgallery.huawei.com/app/C119948497" target="_blank" rel="noopener">AppGallery</a>
+                        </div>
                     </div>
-                </a>
+                </div>
                 <a class="card" href="https://www.rustore.ru/catalog/app/com.fenech.xox" target="_blank" rel="noopener">
                     <img src="icons/xox.png" alt="" loading="lazy">
                     <div class="info">
@@ -254,7 +259,7 @@
                     <div class="info">
                         <h3>OpenGrok — нейросеть для создания видео</h3>
                         <p class="cat">Полезные инструменты · Развлечения</p>
-                        <div class="meta"><span class="rating">4.6</span><span class="store">RuStore</span></div>
+                        <div class="meta"><span class="rating">4.7</span><span class="store">RuStore</span></div>
                     </div>
                 </a>
                 <a class="card" href="https://www.rustore.ru/catalog/app/com.fenech.nanobanana" target="_blank" rel="noopener">
@@ -262,7 +267,7 @@
                     <div class="info">
                         <h3>Open Nano Banana Pro — Нейросеть для фото</h3>
                         <p class="cat">Полезные инструменты · Развлечения</p>
-                        <div class="meta"><span class="rating">4.5</span><span class="store">RuStore</span></div>
+                        <div class="meta"><span class="rating">4.6</span><span class="store">RuStore</span></div>
                     </div>
                 </a>
                 <a class="card" href="https://www.rustore.ru/catalog/app/com.fenech.gpt.image" target="_blank" rel="noopener">
@@ -278,7 +283,7 @@
                     <div class="info">
                         <h3>OpenSora2 — Нейросеть для видео</h3>
                         <p class="cat">Полезные инструменты</p>
-                        <div class="meta"><span class="rating">4.4</span><span class="store">RuStore</span></div>
+                        <div class="meta"><span class="rating">4.6</span><span class="store">RuStore</span></div>
                     </div>
                 </a>
                 <a class="card" href="https://www.rustore.ru/catalog/app/com.fenech.veo3" target="_blank" rel="noopener">
@@ -286,7 +291,7 @@
                     <div class="info">
                         <h3>OpenVeo3 — Нейросеть для видео</h3>
                         <p class="cat">Полезные инструменты · Развлечения</p>
-                        <div class="meta"><span class="rating">4.4</span><span class="store">RuStore</span></div>
+                        <div class="meta"><span class="rating">4.5</span><span class="store">RuStore</span></div>
                     </div>
                 </a>
             </div>
